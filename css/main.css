@@ -2467,9 +2467,9 @@
 		left: 0;
 		padding: 8em 4em 0 0;
 		position: fixed;
-		text-align: right;
+		text-align: left;
 		top: 0;
-		width: 25%;
+		width: 30%;
 	}
 
 		#header strong, #header b {
