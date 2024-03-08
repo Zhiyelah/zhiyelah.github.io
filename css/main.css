@@ -2080,7 +2080,7 @@
 			}
 
 			.image.avatar img {
-				border-radius: 23%;
+				border-radius: 18%;
 				width: 70%;
 			}
 
@@ -2485,6 +2485,7 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
+			padding-right: 1em;
 		}
 
 		#header .image.avatar {
