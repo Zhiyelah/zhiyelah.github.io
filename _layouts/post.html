@@ -17,7 +17,7 @@ layout: default
       {% if page.previous %}
         <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
           <header>
-            <h2><a href="{{ page.previous.url }}">Prev: {{ page.previous.title }}</a></h2>
+            <h2><a href="{{ page.previous.url }}" class="hover">Prev: {{ page.previous.title }}</a></h2>
           </header>
           <section>
             <a href="{{ page.previous.url }}">{{ page.previous.excerpt }}</a>
@@ -31,7 +31,7 @@ layout: default
       {% if page.next %}
         <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
           <header>
-            <h2><a href="{{ page.next.url }}">Next: {{ page.next.title }}</a></h2>
+            <h2><a href="{{ page.next.url }}" class="hover">Next: {{ page.next.title }}</a></h2>
           </header>
           <section>
             <a href="{{ page.next.url }}">{{ page.next.excerpt | markdownify }}</a>
