@@ -1,2 +1,5 @@
+---
+layout: post
+---
 # Zhiyesh
 This my personal zone
