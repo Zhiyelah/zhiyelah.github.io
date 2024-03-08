@@ -1572,12 +1572,12 @@
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #49bf9d;
+		color: #3f3f3f;
 		text-decoration: none;
 	}
 
 		a:hover {
-			color: #49bf9d !important;
+			color: #28b068 !important;
 			text-decoration: none;
 		}
 
