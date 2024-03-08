@@ -1581,6 +1581,10 @@
 			text-decoration: none;
 		}
 
+		a no-hover {
+			pointer-events: none;
+		}
+
 	strong, b {
 		color: #787878;
 		font-weight: 400;
