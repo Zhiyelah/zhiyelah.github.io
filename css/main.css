@@ -2080,7 +2080,7 @@
 			}
 
 			.image.avatar img {
-				border-radius: 0%;
+				border-radius: 23%;
 				width: 70%;
 			}
 
@@ -2485,7 +2485,7 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			padding-right: 6em;
+			padding-right: 2em;
 		}
 
 		#header .image.avatar {
@@ -2506,7 +2506,7 @@
 
 		#footer .icons {
 			margin: 1em 0 0 0;
-			padding-right: 10em;
+			padding-right: 4em;
 		}
 
 			#footer .icons a {
@@ -2518,7 +2518,7 @@
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
-			padding: 0 10em 0 0;
+			padding-right: 4em;
 		}
 
 			#footer .copyright li {
