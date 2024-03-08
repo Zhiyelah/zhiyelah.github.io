@@ -1581,7 +1581,7 @@
 			text-decoration: none;
 		}
 
-		a no-hover {
+		a.no-hover {
 			pointer-events: none;
 		}
 
