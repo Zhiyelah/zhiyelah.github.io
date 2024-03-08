@@ -1,7 +1,7 @@
 ---
 layout: post
+date:
 ---
 # Zhiyesh
-This my personal zone
+Welcome to my personal zone
 
-Use `git init` to create a local project.
