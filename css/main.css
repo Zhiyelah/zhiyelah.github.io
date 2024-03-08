@@ -2081,7 +2081,7 @@
 
 			.image.avatar img {
 				border-radius: 18%;
-				width: 80%;
+				width: 75%;
 			}
 
 /* List */
@@ -2485,13 +2485,12 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			padding-right: 1em;
 		}
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
-			padding: 4em 0 0 0;
+			padding-top: 3em;
 		}
 
 /* Footer */
