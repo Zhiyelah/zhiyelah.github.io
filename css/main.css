@@ -2080,7 +2080,7 @@
 			}
 
 			.image.avatar img {
-				border-radius: 27%;
+				border-radius: 23%;
 				width: 70%;
 			}
 
@@ -2485,6 +2485,7 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
+			padding-right: 6em;
 		}
 
 		#header .image.avatar {
@@ -2505,6 +2506,7 @@
 
 		#footer .icons {
 			margin: 1em 0 0 0;
+			padding-right: 10em;
 		}
 
 			#footer .icons a {
@@ -3150,7 +3152,6 @@
  	.editor-link {
  		display: none;
  		margin-top: 0;
-		padding-right: 10em;
  	}
 
  	ul.actions li.editor-link {
