@@ -1,6 +1,5 @@
 ---
 layout: post
-date:
 ---
 # Zhiyesh
 Welcome to my personal zone
