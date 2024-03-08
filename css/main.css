@@ -2081,7 +2081,7 @@
 
 			.image.avatar img {
 				border-radius: 18%;
-				width: 70%;
+				width: 80%;
 			}
 
 /* List */
@@ -2485,13 +2485,13 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			padding-right: 0.7em;
+			padding-right: 1em;
 		}
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
-			padding: 4em 0 0 1.9em;
+			padding: 4em 0 0 0;
 		}
 
 /* Footer */
@@ -2507,7 +2507,7 @@
 
 		#footer .icons {
 			margin: 1em 0 0 0;
-			padding-right: 3.5em;
+			padding-right: 5.5em;
 		}
 
 			#footer .icons a {
@@ -2519,7 +2519,7 @@
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
-			padding-right: 4em;
+			padding-right: 6em;
 		}
 
 			#footer .copyright li {
