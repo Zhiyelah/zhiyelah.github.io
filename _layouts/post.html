@@ -23,7 +23,9 @@ layout: default
             <a href="{{ page.previous.url }}">{{ page.previous.excerpt }}</a>
           </section>
           <footer>
-              <hr style="height: 1px; border: none; border-top: 1px dotted #555555;" />
+            <div style="text-align: center;">
+              <hr style="height: 1px; margin: auto; border: none; border-top: 1px dotted #b3b3b3;" />
+            </div>
           </footer>
         </article>
       {% endif %}
@@ -37,7 +39,9 @@ layout: default
             <a href="{{ page.next.url }}">{{ page.next.excerpt | markdownify }}</a>
           </section>
           <footer>
-              <hr style="height: 1px; border: none; border-top: 1px dotted #555555;" />
+            <div style="text-align: center;">
+              <hr style="height: 1px; margin: auto; border: none; border-top: 1px dotted #b3b3b3;" />
+            </div>
           </footer>
         </article>
       {% endif %}
