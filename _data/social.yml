@@ -2,3 +2,7 @@
   link: '' # Facebook Link
   social_icon: Facebook
   new_window: true
+- name: Github
+  link: 'https://github.com/Zhiyesh'
+  social_icon: Github
+  new_window: true
