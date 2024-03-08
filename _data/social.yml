@@ -1,6 +1,6 @@
-- name: Facebook
-  link: '' # Facebook Link
-  social_icon: Facebook
+- name: Twitter
+  link: '' # Twitter Link
+  social_icon: Twitter
   new_window: true
 - name: Github
   link: 'https://github.com/Zhiyesh'
