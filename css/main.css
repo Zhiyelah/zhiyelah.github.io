@@ -2485,7 +2485,7 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			padding-right: 2em;
+			padding-right: 1em;
 		}
 
 		#header .image.avatar {
@@ -2506,7 +2506,7 @@
 
 		#footer .icons {
 			margin: 1em 0 0 0;
-			padding-right: 4em;
+			padding-right: 3em;
 		}
 
 			#footer .icons a {
