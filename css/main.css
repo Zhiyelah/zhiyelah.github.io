@@ -3150,6 +3150,7 @@
  	.editor-link {
  		display: none;
  		margin-top: 0;
+		padding-right: 10em;
  	}
 
  	ul.actions li.editor-link {
