@@ -1657,6 +1657,14 @@
 			margin: 3em 0;
 		}
 
+		hr.divide {
+			height: 1px;
+			width: 210px;
+			margin: auto;
+			border: none;
+			border-top: 1px dotted #b3b3b3;
+		}
+
 	blockquote {
 		border-left: solid 6px #efefef;
 		font-style: italic;
@@ -2547,7 +2555,7 @@
 	}
 
 		#main > section {
-			border-top: solid 2px #4cc4ac;
+			border-top: solid 2px #c6c6c6;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
