@@ -4,4 +4,4 @@ layout: post
 # Zhiyesh
 This my personal zone
 
-Use 'git init' to create a local project.
+Use `git init` to create a local project.
