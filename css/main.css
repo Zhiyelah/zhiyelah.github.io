@@ -2467,7 +2467,7 @@
 		left: 0;
 		padding: 8em 4em 0 0;
 		position: fixed;
-		text-align: left;
+		text-align: right;
 		top: 0;
 		width: 30%;
 	}
@@ -2516,7 +2516,7 @@
 			font-size: 0.8em;
 			list-style: none;
 			margin: 1em 0 0 0;
-			padding: 0;
+			padding: 0 10em 0 0;
 		}
 
 			#footer .copyright li {
