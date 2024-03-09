@@ -1599,7 +1599,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #454545;
 		font-weight: 400;
 		line-height: 1em;
 	}
@@ -2564,7 +2564,7 @@
 	}
 
 		#main > section {
-			color: #414141;
+			color: #5d5d5d;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
@@ -2576,7 +2576,8 @@
 			}
 
 		#main > article {
-			color: #414141;
+			color: #5d5d5d;
+			padding-bottom: 6em;
 		}
 
 /* Poptrox */
