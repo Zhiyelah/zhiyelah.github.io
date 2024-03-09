@@ -1610,6 +1610,8 @@
 		}
 
 	h1 {
+		color: #424242;
+		font-weight: 600;
 		font-size: 2em;
 		line-height: 1.5em;
 	}
@@ -2564,7 +2566,7 @@
 	}
 
 		#main > section {
-			color: #5d5d5d;
+			color: #4b4b4b;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
@@ -2575,11 +2577,8 @@
 				padding-top: 0;
 			}
 
-		#main > article {
-			color: #5d5d5d;
-		}
-
 		#main > article > section {
+			color: #4b4b4b;
 			padding-bottom: 6em;
 		}
 
