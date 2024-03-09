@@ -1579,6 +1579,8 @@
 		a.hover fade {
 			color: #9fc6a6;
 			font-weight: 550;
+			border: 2px solid #9fc6a6;
+			border-radius: 13px;
 		}
 
 		a.hover:hover {
