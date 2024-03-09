@@ -1721,6 +1721,10 @@
 		margin: 0 0 1.5em 0;
 	}
 
+	header hr {
+		padding-bottom: 2em;
+	}
+
 	header h2 + p {
 		font-size: 1.25em;
 		margin-top: -1em;
@@ -2480,7 +2484,7 @@
 	}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #fafafa;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
