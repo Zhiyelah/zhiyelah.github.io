@@ -1579,7 +1579,7 @@
 		a.hover fade {
 			color: #9fc6a6;
 			font-weight: 400;
-			font-size: 34%;
+			font-size: 54%;
 			padding: 4px;
 			border: 1px solid #9fc6a6;
 			border-radius: 21%;
@@ -2579,9 +2579,6 @@
 	}
 
 		#main > section {
-			color: #464646;
-			word-spacing: 0.5em;
-			font-size: 12pt;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
@@ -2592,9 +2589,15 @@
 				padding-top: 0;
 			}
 
+		#main > section > section {
+			color: #464646;
+			word-spacing: 0.4em;
+			font-size: 12pt;
+		}
+
 		#main > article > section {
 			color: #464646;
-			word-spacing: 0.5em;
+			word-spacing: 0.4em;
 			font-size: 12pt;
 			padding-bottom: 6em;
 		}
