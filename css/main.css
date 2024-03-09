@@ -2578,7 +2578,8 @@
 	}
 
 		#main > section {
-			color: #4b4b4b;
+			color: #464646;
+			font-size: 12pt;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
@@ -2590,7 +2591,8 @@
 			}
 
 		#main > article > section {
-			color: #4b4b4b;
+			color: #464646;
+			font-size: 12pt;
 			padding-bottom: 6em;
 		}
 
