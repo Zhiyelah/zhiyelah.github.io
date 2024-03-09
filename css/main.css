@@ -1577,12 +1577,16 @@
 	}
 
 		a.hover:hover {
-			color: #535353 !important;
+			color: #28b068 !important;
 			text-decoration: none;
 		}
 
 		a.fade {
 			color: #7a7a7a;
+		}
+
+		a.fade:hover {
+			color: #535353;
 		}
 
 	strong, b {
