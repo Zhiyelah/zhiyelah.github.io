@@ -1576,10 +1576,12 @@
 		text-decoration: none;
 	}
 
+/* Zhiyesh */
+
 		a.hover fade {
 			color: #9fc6a6;
 			font-weight: 300;
-			font-size: 78%;
+			font-size: 56%;
 			padding: 4px;
 			border: 1px solid #9fc6a6;
 			border-radius: 21%;
