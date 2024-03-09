@@ -1580,8 +1580,9 @@
 			color: #9fc6a6;
 			font-weight: 500;
 			font-size: 70%;
+			margin: auto;
 			border: 2px solid #9fc6a6;
-			border-radius: 9%;
+			border-radius: 9px;
 		}
 
 		a.hover:hover {
