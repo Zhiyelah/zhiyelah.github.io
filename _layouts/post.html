@@ -33,7 +33,11 @@ layout: default
         <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
           <header>
             <hr class="divide">
+            {% if page.next.next %}
             <h2><a href="{{ page.next.url }}" class="hover"><fade>Next</fade><br>{{ page.next.title }}</a></h2>
+            {% else %}
+            <h2><a href="{{ page.next.url }}" class="hover"><fade>Lastest</fade><br>{{ page.next.title }}</a></h2>
+            {% endif %}
           </header>
           <section>
             <a href="{{ page.next.url }}" class="fade">{{ page.next.excerpt | markdownify }}</a>
