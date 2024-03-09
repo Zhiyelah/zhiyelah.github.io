@@ -1625,7 +1625,6 @@
 	h1 {
 		color: #424242;
 		font-weight: 600;
-		word-spacing: 1em;
 		font-size: 2em;
 		line-height: 1.5em;
 	}
@@ -2592,13 +2591,13 @@
 
 		#main > section > section {
 			color: #464646;
-			word-spacing: 0.1em;
+			word-spacing: 0.2em;
 			font-size: 12pt;
 		}
 
 		#main > article > section {
 			color: #464646;
-			word-spacing: 0.1em;
+			word-spacing: 0.2em;
 			font-size: 12pt;
 			padding-bottom: 6em;
 		}
