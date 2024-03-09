@@ -19,8 +19,10 @@ layout: default
     <div class="row">
       {% for post in site.posts offset:1 %}
         <article class="{% cycle '6u', '6u$' %} 12u(small)">
-          <header>
+          <head>
             <hr class="divide">
+          </head>
+          <header>
             <h2><a href="{{ post.url }}" class="hover">{{ post.title }}</a></h2>
           </header>
           <section>
