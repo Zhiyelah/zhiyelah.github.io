@@ -1576,6 +1576,11 @@
 		text-decoration: none;
 	}
 
+		a.hover fade {
+			color: #d9d9d9;
+			font-weight: 550;
+		}
+
 		a.hover:hover {
 			color: #28b068 !important;
 			text-decoration: none;
