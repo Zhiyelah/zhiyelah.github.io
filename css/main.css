@@ -1660,6 +1660,7 @@
 		hr.divide {
 			height: 1px;
 			width: 210px;
+			text-align: center;
 			margin: auto;
 			border: none;
 			border-top: 1px dotted #b3b3b3;
