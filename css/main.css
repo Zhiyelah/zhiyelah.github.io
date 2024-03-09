@@ -2575,6 +2575,10 @@
 				padding-top: 0;
 			}
 
+		#main > article {
+			color: #414141;
+		}
+
 /* Poptrox */
 
 	@-moz-keyframes spin {
