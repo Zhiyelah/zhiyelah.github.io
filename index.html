@@ -20,6 +20,7 @@ layout: default
       {% for post in site.posts offset:1 %}
         <article class="{% cycle '6u', '6u$' %} 12u(small)">
           <header>
+            <hr class="divide">
             <h2><a href="{{ post.url }}" class="hover">{{ post.title }}</a></h2>
           </header>
           <section>
@@ -29,9 +30,7 @@ layout: default
             <ul class="actions">
               <li class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></li>
             </ul>
-            <div style="text-align: center;">
-              <hr class="divide"/>
-            </div>
+            <hr class="divide">
           </footer>
         </article>
       {% endfor %}
