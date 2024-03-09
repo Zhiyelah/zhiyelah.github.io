@@ -21,7 +21,7 @@ layout: default
             <h2><a href="{{ page.previous.url }}" class="hover">Prev: {{ page.previous.title }}</a></h2>
           </header>
           <section>
-            <a href="{{ page.previous.url }}">{{ page.previous.excerpt }}</a>
+            <a href="{{ page.previous.url }}" class="fade">{{ page.previous.excerpt }}</a>
           </section>
           <footer>
             <hr class="divide">
@@ -36,7 +36,7 @@ layout: default
             <h2><a href="{{ page.next.url }}" class="hover">Next: {{ page.next.title }}</a></h2>
           </header>
           <section>
-            <a href="{{ page.next.url }}">{{ page.next.excerpt | markdownify }}</a>
+            <a href="{{ page.next.url }}" class="fade">{{ page.next.excerpt | markdownify }}</a>
           </section>
           <footer>
             <hr class="divide">
