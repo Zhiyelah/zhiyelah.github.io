@@ -2562,7 +2562,7 @@
 		#main > section {
 			border-top: dashed 2px #d9d9d9;
 			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			padding: 4em 0 2em 0;
 		}
 
 			#main > section:first-child {
