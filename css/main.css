@@ -1599,7 +1599,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #454545;
+		color: #535353;
 		font-weight: 400;
 		line-height: 1em;
 	}
@@ -2577,6 +2577,9 @@
 
 		#main > article {
 			color: #5d5d5d;
+		}
+
+		#main > article > section {
 			padding-bottom: 6em;
 		}
 
