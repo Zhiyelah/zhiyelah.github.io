@@ -1692,11 +1692,11 @@
 		}
 
 		header hr.divide {
-			width: 240px;
+			width: 270px;
 		}
 
 		footer hr.divide {
-			padding-bottom: 2em;
+			padding-bottom: 3em;
 		}
 
 	blockquote {
