@@ -1,7 +1,7 @@
 function changeTheme() {
   var date = new Date();
   var hour = date.getHours();
-  if (hour < 18) {
+  if (false) {
     document.getElementById("elementId").style.color = "#4b4b4b";
     document.getElementById("elementId").style.background-color = "#fcfcfc";
   } else {
