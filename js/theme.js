@@ -5,5 +5,5 @@ function changeTheme() {
   document.getElementById('top').style.backgroundColor = "#4b4b4b";
 }
 
-changeTheme();
+window.onload = changeTheme;
 
