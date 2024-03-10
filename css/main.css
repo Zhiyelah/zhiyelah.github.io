@@ -1579,7 +1579,7 @@
 /* Zhiyesh */
 
 		a.hover {
-			white-space: pre-wrap;
+			white-space: pre-line;
 		}
 
 		a.hover fade {
@@ -2521,7 +2521,7 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			white-space: pre-wrap;
+			white-space: pre-line;
 		}
 
 		#header .image.avatar {
