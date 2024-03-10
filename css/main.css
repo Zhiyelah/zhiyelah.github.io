@@ -1691,6 +1691,10 @@
 			border-top: 1px dotted #b3b3b3;
 		}
 
+		header hr.divide {
+			width: 240px;
+		}
+
 		footer hr.divide {
 			padding-bottom: 2em;
 		}
