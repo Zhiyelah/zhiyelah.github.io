@@ -1691,6 +1691,10 @@
 			border-top: 1px dotted #b3b3b3;
 		}
 
+		footer hr.divide {
+			padding-bottom: 2em;
+		}
+
 	blockquote {
 		border-left: solid 6px #efefef;
 		font-style: italic;
