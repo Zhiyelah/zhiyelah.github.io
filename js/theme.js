@@ -10,5 +10,5 @@ function changeTheme() {
   }
 }
 
-window.onload = changeTheme;
+changeTheme();
 
