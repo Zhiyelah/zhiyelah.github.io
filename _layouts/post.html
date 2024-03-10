@@ -18,7 +18,7 @@ layout: default
         <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
           <header>
             <hr class="divide">
-            <h2><a href="{{ page.previous.url }}" class="hover"><fade>Prev</fade><br>{{ page.previous.title }}</a></h2>
+            <h2><a href="{{ page.previous.url }}" class="hover"><fade>Prev</fade><br />{{ page.previous.title }}</a></h2>
           </header>
           <section>
             <a href="{{ page.previous.url }}" class="fade">{{ page.previous.excerpt }}</a>
@@ -34,9 +34,9 @@ layout: default
           <header>
             <hr class="divide">
             {% if page.next.next %}
-            <h2><a href="{{ page.next.url }}" class="hover"><fade>Next</fade><br>{{ page.next.title }}</a></h2>
+            <h2><a href="{{ page.next.url }}" class="hover"><fade>Next</fade><br />{{ page.next.title }}</a></h2>
             {% else %}
-            <h2><a href="{{ page.next.url }}" class="hover"><fade>Latest</fade><br>{{ page.next.title }}</a></h2>
+            <h2><a href="{{ page.next.url }}" class="hover"><fade>Latest</fade><br />{{ page.next.title }}</a></h2>
             {% endif %}
           </header>
           <section>
