@@ -1578,6 +1578,10 @@
 
 /* Zhiyesh */
 
+		a.hover {
+			white-space: pre-wrap;
+		}
+
 		a.hover fade {
 			color: #619761;
 			font-weight: 300;
@@ -1585,7 +1589,6 @@
 			padding: 5px;
 			border: 1px solid #619761;
 			border-radius: 21%;
-			white-space: pre-wrap;
 		}
 
 		a.hover:hover {
