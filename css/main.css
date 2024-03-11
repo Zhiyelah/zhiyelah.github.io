@@ -2983,6 +2983,10 @@
 						display: inline;
 					}
 
+				#header .image.avatar {
+					padding: 3em 0 0 1em;
+				}
+
 		/* Footer */
 
 			#footer {
@@ -3074,6 +3078,10 @@
 					font-size: 1.35em;
 				}
 
+				#header .image.avatar {
+					padding: 3em 0 0 1em;
+				}
+
 		/* Footer */
 
 			#footer {
@@ -3151,6 +3159,10 @@
 				#header h1 br {
 					display: none;
 				}
+
+			#header .image.avatar {
+				padding: 3em 0 0 1em;
+			}
 
 		/* Footer */
 
