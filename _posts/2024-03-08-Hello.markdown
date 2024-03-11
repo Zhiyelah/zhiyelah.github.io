@@ -1,7 +1,0 @@
----
-layout: post
-author: Zhiyesh
----
-## Zhiyesh
-Welcome to my personal zone.
-
