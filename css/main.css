@@ -2965,8 +2965,8 @@
 			#header {
 				background-attachment: scroll;
 				background-position: top left, center center;
-				background-size: auto,		cover;
 				background-image: url("images/overlay.png"), url("../images/bg.jpg");
+				background-size: auto,		cover;
 				left: auto;
 				padding: 6em 4em;
 				position: relative;
