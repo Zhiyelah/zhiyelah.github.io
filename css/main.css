@@ -2505,6 +2505,7 @@
 		background-attachment: scroll,								fixed;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
+		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-size: auto,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
@@ -2965,7 +2966,6 @@
 			#header {
 				background-attachment: scroll;
 				background-position: top left, center center;
-				background-image: url("images/overlay.png"), url("../images/bg.jpg");
 				background-size: auto,		cover;
 				left: auto;
 				padding: 6em 4em;
