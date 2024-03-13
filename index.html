@@ -3,7 +3,10 @@ layout: default
 ---
 <div id="main">
   <section>
-    {{ site.primary }}
+    {% for post in site.posts %}
+      {% if post.title == 'Primary' %}
+      {% endif %}
+    {% endfor %}
   </section>
 
   <section>
