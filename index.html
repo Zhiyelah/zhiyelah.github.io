@@ -6,13 +6,8 @@ layout: default
     {% for post in site.posts %}
       {% if post.title == 'Primary' %}
         <header>
-          <h1>{{ post.title }}</h1>
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %}&nbsp; • &nbsp;{{ post.author }}{% endif %}{% if page.meta %}&nbsp; • &nbsp;{{ page.meta }}{% endif %}</p>
-        </header>
-        <section>
           {{ post.content }}
-          <p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></p>
-        </section>
+        </header>
       {% endif %}
     {% endfor %}
   </section>
