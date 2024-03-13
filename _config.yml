@@ -1,5 +1,5 @@
 locale: "zh-CN"
-title: Zhiyesh's homepage # Title of your site
+title: Zhiyesh's blog # Title of your site
 url: "https://github.com/Zhiyesh" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Zhiye lah
-  email: # your-email@domain.com
+  name: Zhiyelah
+  email: Zhiyelah@outlook.com # Email
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
