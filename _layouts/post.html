@@ -14,7 +14,7 @@ layout: default
 
     <footer>
       <div class="row">
-      {% if page.previous %}
+      {% if page.previous and page.previous.title != 'Primary' %}
         <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
           <header>
             <hr class="divide">
@@ -30,7 +30,7 @@ layout: default
         </article>
       {% endif %}
 
-      {% if page.next %}
+      {% if page.next and page.next.title != 'Primary' %}
         <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
           <header>
             <hr class="divide">
