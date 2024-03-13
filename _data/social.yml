@@ -1,7 +1,3 @@
-- name: Twitter
-  link: '' # Twitter Link
-  social_icon: Twitter
-  new_window: true
 - name: Github
   link: 'https://github.com/Zhiyesh'
   social_icon: Github
