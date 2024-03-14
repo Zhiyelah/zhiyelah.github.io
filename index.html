@@ -5,7 +5,7 @@ layout: default
   <section>
     {% for post in site.posts %}
       {% if post.title == 'Primary' %}
-        <header>
+        <header id="primary">
           {{ post.content }}
         </header>
       {% endif %}
@@ -19,7 +19,7 @@ layout: default
         <article class="{% cycle '6u', '6u$' %} 12u(small)">
           <header>
             <hr class="divide">
-            <h2><a href="{{ post.url }}" class="hover">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}" class="hover" id="postitle">{{ post.title }}</a></h2>
           </header>
           <section>
             <a href="{{ post.url }}" class="fade">{{ post.excerpt }}</a>
