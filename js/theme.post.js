@@ -3,7 +3,7 @@
   var hour=date.getHours();
   if(hour>18||hour<5){
     try{
-      document.getElementById('primary').getElementsByTagName('h1')[0].style.color='#f5f5f5';
+      document.getElementById('primary').getElementsByTagName('h1')[0].style.color='#f8f8f8';
       document.getElementById('primary').getElementsByTagName('h3')[0].style.color='#f5f5f5';
     }catch(e){}
     try{
