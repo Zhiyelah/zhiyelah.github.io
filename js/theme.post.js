@@ -24,7 +24,8 @@
       var i=0;
       try{
         while(1){
-          document.getElementsByClassName('hover')[i++].style.color='#f2f2f2';
+          document.getElementsByClassName('hover')[i].style.color='#f2f2f2';
+          i++;
         }
       }catch(e){}
     }catch(e){}
