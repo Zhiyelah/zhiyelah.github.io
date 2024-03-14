@@ -3,24 +3,8 @@
   var hour=date.getHours();
   if(hour>18||hour<5){
     try{
-      try{
-        document.getElementById('primary').getElementsByTagName('h1')[0].style.color='#f5f5f5';
-      }catch(e){}
-      try{
-        document.getElementById('primary').getElementsByTagName('h2')[0].style.color='#f5f5f5';
-      }catch(e){}
-      try{
-        document.getElementById('primary').getElementsByTagName('h3')[0].style.color='#f5f5f5';
-      }catch(e){}
-      try{
-        document.getElementById('primary').getElementsByTagName('h4')[0].style.color='#f5f5f5';
-      }catch(e){}
-      try{
-        document.getElementById('primary').getElementsByTagName('h5')[0].style.color='#f5f5f5';
-      }catch(e){}
-      try{
-        document.getElementById('primary').getElementsByTagName('h6')[0].style.color='#f5f5f5';
-      }catch(e){}
+      document.getElementById('primary').getElementsByTagName('h1')[0].style.color='#f5f5f5';
+      document.getElementById('primary').getElementsByTagName('h3')[0].style.color='#f5f5f5';
       var i=0;
       try{
         while(1){
