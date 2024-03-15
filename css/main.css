@@ -2992,6 +2992,9 @@
 					padding: 3em 0 0 1em;
 				}
 
+			a.fade:hover {
+			}
+
 		/* Footer */
 
 			#footer {
@@ -3087,6 +3090,9 @@
 					padding: 3em 0 0 1em;
 				}
 
+			a.fade:hover {
+			}
+
 		/* Footer */
 
 			#footer {
@@ -3167,6 +3173,9 @@
 
 			#header .image.avatar {
 				padding: 3em 0 0 1em;
+			}
+
+			a.fade:hover {
 			}
 
 		/* Footer */
