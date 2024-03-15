@@ -11,11 +11,12 @@
       }
       var fades = document.getElementsByClassName('fade');
       for (var i = 0; i < fades.length; ++i) {
+        this.style.color='#adadad';
         fades[i].onmouseover = function() {
           this.style.color='#e1e1e1';
         };
         fades[i].onmouseout = function() {
-          this.style.color='#9b9b9b';
+          this.style.color='#adadad';
         };
       }
     }catch(e){}
@@ -30,11 +31,12 @@
       }
       var fades = document.getElementsByClassName('fade');
       for (var i = 0; i < fades.length; ++i) {
+        this.style.color='#adadad';
         fades[i].onmouseover = function() {
           this.style.color='#e1e1e1';
         };
         fades[i].onmouseout = function() {
-          this.style.color='#9b9b9b';
+          this.style.color='#adadad';
         };
       }
     }catch(e){}
