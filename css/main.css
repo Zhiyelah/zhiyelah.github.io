@@ -1578,6 +1578,10 @@
 
 /* Zhiyesh */
 
+		#primary {
+			padding-top: 2em;
+		}
+
 		a.hover {
 			white-space: pre-line;
 		}
@@ -2537,7 +2541,7 @@
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
-			padding: 2em 0 0 2em;
+			padding: 1em 0 0 2em;
 		}
 
 		#header img {
