@@ -2,14 +2,13 @@
   var date=new Date();
   var hour=date.getHours();
   if(hour>18||hour<5){
-    function hoverIn() {
-      this.style.color='#e8e8e8';
-    }
     try{
       document.getElementById('primary').getElementsByTagName('h1')[0].style.color='#dedede';
       document.getElementById('primary').getElementsByTagName('h3')[0].style.color='#d1d1d1';
       for (let hx in document.getElementsByClassName('fade')) {
-        hx.addEventListener('mouseenter', hoverIn);
+        hx.onmouseover = function() {
+          this.style.color='#e8e8e8';
+        };
       }
     }catch(e){}
 
