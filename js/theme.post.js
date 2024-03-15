@@ -5,7 +5,7 @@
     try{
       document.getElementById('primary').getElementsByTagName('h1')[0].style.color='#dedede';
       document.getElementById('primary').getElementsByTagName('h3')[0].style.color='#d1d1d1';
-      for (let hx in document.getElementsByClassName('fade')) {
+      for (var hx in document.getElementsByClassName('fade')) {
         hx.onmouseover = function() {
           this.style.color='#e8e8e8';
         };
