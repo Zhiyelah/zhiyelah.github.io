@@ -11,7 +11,7 @@
       }
       var fades = document.getElementsByClassName('fade');
       for (var i = 0; i < fades.length; ++i) {
-        this.style.color='#adadad';
+        fades[i].style.color='#adadad';
         fades[i].onmouseover = function() {
           this.style.color='#e1e1e1';
         };
@@ -31,7 +31,7 @@
       }
       var fades = document.getElementsByClassName('fade');
       for (var i = 0; i < fades.length; ++i) {
-        this.style.color='#adadad';
+        fades[i].style.color='#adadad';
         fades[i].onmouseover = function() {
           this.style.color='#e1e1e1';
         };
