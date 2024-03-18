@@ -1580,7 +1580,7 @@
 
 		#primary {
 			padding-top: 2em;
-			color: #464646;
+			color: linear-gradient(to right, #f9f6f7, #eaccd7);
 			word-spacing: 0.2em;
 			font-size: 13pt;
 		}
