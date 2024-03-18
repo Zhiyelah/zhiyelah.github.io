@@ -1572,7 +1572,7 @@
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #232323;
+		color: #171717;
 		text-decoration: none;
 	}
 
@@ -1580,13 +1580,9 @@
 
 		#primary {
 			padding-top: 2em;
-			color: #252525;
+			color: #212121;
 			word-spacing: 0.2em;
 			font-size: 13pt;
-		}
-
-		#primary > h3 {
-			color: linear-gradient(to right, #f9f6f7, #eaccd7);
 		}
 
 		a.hover {
@@ -1612,7 +1608,7 @@
 		}
 
 		a.fade:hover {
-			color: #232323;
+			color: #171717;
 		}
 
 	strong, b {
