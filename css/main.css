@@ -1585,8 +1585,16 @@
 			font-size: 13pt;
 		}
 
+		#primary > h3 {
+			background: linear-gradient(to right, #f9f6f7, #eaccd7);
+			background-clip: text;
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+		}
+
 		a.hover {
 			white-space: pre-line;
+			font-weight: 500;
 		}
 
 		a.hover fade {
