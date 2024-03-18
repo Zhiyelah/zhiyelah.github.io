@@ -1586,7 +1586,7 @@
 		}
 
 		#primary > h3 {
-			background: linear-gradient(to right, #f9f6f7, #eaccd7);
+			background: linear-gradient(to right, #eaccd7, #d79ec6);
 			background-clip: text;
 			-webkit-background-clip: text;
 			-webkit-text-fill-color: transparent;
