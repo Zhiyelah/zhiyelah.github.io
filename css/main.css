@@ -1572,7 +1572,7 @@
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #171717;
+		color: #0e0e0e;
 		text-decoration: none;
 	}
 
@@ -1608,7 +1608,7 @@
 		}
 
 		a.fade:hover {
-			color: #171717;
+			color: #0e0e0e;
 		}
 
 	strong, b {
@@ -2618,7 +2618,7 @@
 			}
 
 		#main > article > section {
-			color: #3f3f3f;
+			color: #171717;
 			word-spacing: 0.2em;
 			font-size: 13pt;
 			padding-bottom: 5em;
@@ -2913,11 +2913,11 @@
 				width: 30%;
 			}
 
-				#header h1 {
+				#header h2 {
 					font-size: 1.25em;
 				}
 
-					#header h1 br {
+					#header h2 br {
 						display: none;
 					}
 
@@ -2977,11 +2977,11 @@
 				width: 100%;
 			}
 
-				#header h1 {
+				#header h2 {
 					font-size: 1.75em;
 				}
 
-					#header h1 br {
+					#header h2 br {
 						display: inline;
 					}
 
@@ -3079,7 +3079,7 @@
 				padding: 2.25em 1.5em;
 			}
 
-				#header h1 {
+				#header h2 {
 					font-size: 1.35em;
 				}
 
@@ -3164,7 +3164,7 @@
 				padding: 4.5em 1.5em;
 			}
 
-				#header h1 br {
+				#header h2 br {
 					display: none;
 				}
 
