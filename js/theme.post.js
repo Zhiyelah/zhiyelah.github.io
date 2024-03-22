@@ -11,6 +11,11 @@
       for (var i = 0; i < h3s.length; ++i) {
         h3s[i].style.color='#d1d1d1';
       }
+      var codes = document.getElementsByClassName('language-plaintext highlighter-rouge');
+      for (var i = 0; i < codes.length; ++i) {
+        codes[i].style.backgroundColor='#494949';
+        codes[i].style.color='#d6d6d6';
+      }
       var hovers = document.getElementsByClassName('hover');
       for (var i = 0; i < hovers.length; ++i) {
         hovers[i].style.color='#e1e1e1';
@@ -34,10 +39,7 @@
       var codes = document.getElementsByClassName('language-plaintext highlighter-rouge');
       for (var i = 0; i < codes.length; ++i) {
         codes[i].style.backgroundColor='#494949';
-      }
-      var lcodes = document.getElementsByClassName('highlight');
-      for (var i = 0; i < lcodes.length; ++i) {
-        lcodes[i].style.backgroundColor='#494949';
+        codes[i].style.color='#d6d6d6';
       }
       var hovers = document.getElementsByClassName('hover');
       for (var i = 0; i < hovers.length; ++i) {
