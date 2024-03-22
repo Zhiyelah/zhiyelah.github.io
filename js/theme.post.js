@@ -33,7 +33,11 @@
 
       var codes = document.getElementsByClassName('language-plaintext highlighter-rouge');
       for (var i = 0; i < codes.length; ++i) {
-        codes[i].style.backgroundColor='#4b4b4b';
+        codes[i].style.backgroundColor='#494949';
+      }
+      var lcodes = document.getElementsByClassName('highlight');
+      for (var i = 0; i < lcodes.length; ++i) {
+        lcodes[i].style.backgroundColor='#494949';
       }
       var hovers = document.getElementsByClassName('hover');
       for (var i = 0; i < hovers.length; ++i) {
