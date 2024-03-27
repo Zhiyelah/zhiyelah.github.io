@@ -43,6 +43,7 @@
       for (var i = 0; i < codes.length; ++i) {
         codes[i].style.backgroundColor='#494949';
         codes[i].style.color='#d6d6d6';
+        codes[i].style.borderColor='#494949';
       }
       var hovers = document.getElementsByClassName('hover');
       for (var i = 0; i < hovers.length; ++i) {
@@ -104,6 +105,7 @@
       for (var i = 0; i < codes.length; ++i) {
         codes[i].style.backgroundColor='#494949';
         codes[i].style.color='#d6d6d6';
+        codes[i].style.borderColor='#494949';
       }
       var hovers = document.getElementsByClassName('hover');
       for (var i = 0; i < hovers.length; ++i) {
