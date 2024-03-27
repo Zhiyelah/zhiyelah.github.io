@@ -1595,6 +1595,7 @@
 		a.hover {
 			white-space: pre-line;
 			font-weight: 600;
+			letter-spacing: 0.2em;
 		}
 
 		a.hover fade {
@@ -1651,7 +1652,7 @@
 	}
 
 	h1.post-title {
-		letter-spacing: 0.4em;
+		letter-spacing: 0.2em;
 	}
 
 	h2 {
