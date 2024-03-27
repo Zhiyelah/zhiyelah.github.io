@@ -1727,7 +1727,7 @@
 		border-radius: 0.35em;
 		border: solid 1px #efefef;
 		font-family: "Cascadia Code", monospace;
-		font-size: 0.88em;
+		font-size: 0.87em;
 		margin: 0 0.15em;
 		padding: 0.15em 0.45em;
 	}
@@ -1735,7 +1735,7 @@
 	pre {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Cascadia Code", monospace;
-		font-size: 0.9em;
+		font-size: 1em;
 		margin: 0 0 2em 0;
 	}
 
@@ -2634,6 +2634,7 @@
 		}
 
 		#main > article > section > h1, #main > article > section > h2, #main > article > section > h3, #main > article > section > h4, #main > article > section > h5, #main > article > section > h6 {
+			font-weight: 600;
 			padding-bottom: 0.8em;
 		}
 
