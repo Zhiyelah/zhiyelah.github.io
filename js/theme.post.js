@@ -107,6 +107,11 @@
         codes[i].style.color='#d6d6d6';
         codes[i].style.borderColor='#494949';
       }
+      var codesC = document.getElementsByClassName('language-C');
+      for (var i = 0; i < codesC.length; ++i) {
+        codesC[i].style.backgroundColor='#494949';
+        codesC[i].style.color='#d6d6d6';
+      }
       var hovers = document.getElementsByClassName('hover');
       for (var i = 0; i < hovers.length; ++i) {
         hovers[i].style.color='#e1e1e1';
