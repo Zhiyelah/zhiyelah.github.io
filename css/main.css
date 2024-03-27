@@ -2633,8 +2633,12 @@
 			padding-bottom: 5em;
 		}
 
+		code.language-plaintext highlighter-rouge {
+			font-size: 11pt;
+		}
+
 		#main > article > section > h1, #main > article > section > h2, #main > article > section > h3, #main > article > section > h4, #main > article > section > h5, #main > article > section > h6 {
-			padding-bottom: 2em;
+			padding-bottom: 1em;
 		}
 
 /* Poptrox */
