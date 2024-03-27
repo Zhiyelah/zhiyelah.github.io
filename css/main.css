@@ -1725,11 +1725,10 @@
 	code {
 		background: #f7f7f7;
 		border-radius: 0.35em;
-		border: solid 2px #efefef;
-		font-family: "Courier New", monospace;
-		font-size: 0.9em;
-		margin: 0 0.25em;
-		padding: 0.25em 0.65em;
+		border: solid 1px #efefef;
+		font-size: 0.7em;
+		margin: 0 0.15em;
+		padding: 0.15em 0.25em;
 	}
 
 	pre {
@@ -2631,11 +2630,6 @@
 			font-size: 13pt;
 			line-height: 1.7em;
 			padding-bottom: 5em;
-		}
-
-		code.language-plaintext, code.highlighter-rouge {
-			font-size: 11pt;
-			border-size: 1px;
 		}
 
 		#main > article > section > h1, #main > article > section > h2, #main > article > section > h3, #main > article > section > h4, #main > article > section > h5, #main > article > section > h6 {
