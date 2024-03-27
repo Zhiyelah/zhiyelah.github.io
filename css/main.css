@@ -2633,7 +2633,7 @@
 			padding-bottom: 5em;
 		}
 
-		code.language-plaintext highlighter-rouge {
+		code.language-plaintext, code.highlighter-rouge {
 			font-size: 11pt;
 		}
 
