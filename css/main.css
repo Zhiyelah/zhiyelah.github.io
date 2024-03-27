@@ -2629,8 +2629,12 @@
 			color: #171717;
 			word-spacing: 0.2em;
 			font-size: 13pt;
-			line-height: 1.5em;
+			line-height: 1.7em;
 			padding-bottom: 5em;
+		}
+
+		#main > article > section > h1, #main > article > section > h2, #main > article > section > h3, #main > article > section > h4, #main > article > section > h5, #main > article > section > h6 {
+			padding-bottom: 2em;
 		}
 
 /* Poptrox */
