@@ -1650,6 +1650,10 @@
 		line-height: 1.5em;
 	}
 
+	h1.post-title {
+		letter-spacing: 30%;
+	}
+
 	h2 {
 		font-size: 1.5em;
 		line-height: 1.5em;
@@ -2631,10 +2635,6 @@
 			font-size: 13pt;
 			line-height: 1.7em;
 			padding-bottom: 5em;
-		}
-
-		#main > article > header {
-			letter-spacing: 50%;
 		}
 
 		#main > article > section > h1, #main > article > section > h2, #main > article > section > h3, #main > article > section > h4, #main > article > section > h5, #main > article > section > h6 {
