@@ -1726,14 +1726,15 @@
 		background: #f7f7f7;
 		border-radius: 0.35em;
 		border: solid 1px #efefef;
-		font-size: 0.87em;
+		font-family: "Cascadia Code", monospace;
+		font-size: 0.88em;
 		margin: 0 0.15em;
-		padding: 0.15em 0.35em;
+		padding: 0.15em 0.45em;
 	}
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: "Cascadia Code", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -2633,7 +2634,7 @@
 		}
 
 		#main > article > section > h1, #main > article > section > h2, #main > article > section > h3, #main > article > section > h4, #main > article > section > h5, #main > article > section > h6 {
-			padding-bottom: 1em;
+			padding-bottom: 0.8em;
 		}
 
 /* Poptrox */
