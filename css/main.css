@@ -3012,6 +3012,10 @@
 			a.fade:hover {
 			}
 
+			footer hr.divide {
+				border-top: none;
+			}
+
 		/* Footer */
 
 			#footer {
@@ -3110,6 +3114,10 @@
 			a.fade:hover {
 			}
 
+			footer hr.divide {
+				border-top: none;
+			}
+
 		/* Footer */
 
 			#footer {
@@ -3193,6 +3201,10 @@
 			}
 
 			a.fade:hover {
+			}
+
+			footer hr.divide {
+				border-top: none;
 			}
 
 		/* Footer */
