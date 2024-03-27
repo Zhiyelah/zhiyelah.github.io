@@ -54,27 +54,27 @@
       document.getElementById('main').getElementsByTagName('article')[0].getElementsByTagName('section')[0].style.color='#d6d6d6';
       var h1s = document.getElementsByTagName('h1');
       for (var i = 0; i < h1s.length; ++i) {
-        h1s[i].style.color='#f2f2f2';
+        h1s[i].style.color='#e1e1e1';
       }
       var h2s = document.getElementsByTagName('h2');
       for (var i = 0; i < h2s.length; ++i) {
-        h2s[i].style.color='#f2f2f2';
+        h2s[i].style.color='#e1e1e1';
       }
       var h3s = document.getElementsByTagName('h3');
       for (var i = 0; i < h3s.length; ++i) {
-        h3s[i].style.color='#f2f2f2';
+        h3s[i].style.color='#fafafa';
       }
       var h4s = document.getElementsByTagName('h4');
       for (var i = 0; i < h4s.length; ++i) {
-        h4s[i].style.color='#f2f2f2';
+        h4s[i].style.color='#fafafa';
       }
       var h5s = document.getElementsByTagName('h5');
       for (var i = 0; i < h5s.length; ++i) {
-        h5s[i].style.color='#f2f2f2';
+        h5s[i].style.color='#fafafa';
       }
       var h6s = document.getElementsByTagName('h6');
       for (var i = 0; i < h6s.length; ++i) {
-        h6s[i].style.color='#f2f2f2';
+        h6s[i].style.color='#fafafa';
       }
       var codes = document.getElementsByClassName('language-plaintext highlighter-rouge');
       for (var i = 0; i < codes.length; ++i) {
