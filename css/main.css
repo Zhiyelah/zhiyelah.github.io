@@ -1621,7 +1621,7 @@
 		}
 
 	strong, b {
-		color: #787878;
+		color: #768c59;
 		font-weight: 500;
 	}
 
@@ -1666,6 +1666,7 @@
 	}
 
 	h4 {
+		font-weight: 500;
 		font-size: 1.1em;
 		line-height: 1.5em;
 	}
