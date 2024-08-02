@@ -1732,7 +1732,7 @@
 		background: #f7f7f7;
 		border-radius: 0.35em;
 		border: solid 1px #efefef;
-		font-family: "Source Code Pro", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.87em;
 		margin: 0 0.15em;
 		padding: 0.15em 0.45em;
@@ -1740,7 +1740,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Source Code Pro", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 1em;
 		margin: 0 0 2em 0;
 	}
